@@ -185,6 +185,25 @@ h2 {
     color: var(--cor-texto);
 }
 
+#apoio {
+    margin-top: 50px;
+}
+
+#apoio h3 {
+    color: #cc4695;
+    margin-top: 20px;
+}
+
+#apoio ul {
+    margin-left: 20px;
+    line-height: 1.8;
+}
+
+#apoio p {
+    line-height: 1.6;
+    color: #333;
+}
+
 /* Rodapé */
 footer {
     background-color: #1a202c;
